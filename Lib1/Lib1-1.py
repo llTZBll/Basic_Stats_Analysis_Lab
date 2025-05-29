@@ -16,4 +16,5 @@ def student_stats(n):
     print(f"前{n}个学生的平均年龄: {avg_age:.2f}")
     print(f"前{n}个学生的平均成绩: {avg_score:.2f}")
 
+
 student_stats(5)
